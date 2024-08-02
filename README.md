@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ordinary Twilight, you can call me Minion!
+- 👋 Hi, I’m Minion!
 - 👀 I’m interested in data visualisations, anime and especially data visualisations about anime...
 - 🌱 I’m currently learning Java, Tableau and basic web development!
 - 💞️ I’m looking to collaborate on anything, really. Just contact me if you have any cool ideas to share!
